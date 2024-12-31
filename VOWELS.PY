@@ -1,0 +1,5 @@
+s=str(input("enter a letter: "))
+s1=s.lower()
+s2=s.upper()
+a=s1.count(a,e,i,o,u)
+print("it is a vowel",s1)
